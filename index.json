@@ -12,6 +12,10 @@
         {
             "name": "Addresses",
             "path": "addresses.txt"
+        },
+          {
+            "name": "Mutual Funds",
+            "path": "mutualfunds.txt"
         }
     ]
 }
